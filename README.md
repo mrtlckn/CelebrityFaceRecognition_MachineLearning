@@ -41,6 +41,17 @@ Goal is to come up with best model with best fine tuned parameters
 ![image](https://user-images.githubusercontent.com/83788186/174265216-4d327a9c-20bb-4ac8-b8af-b235d0f078ca.png)
 
 
+6-Confusion Matrix
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/83788186/174266085-c9f5312f-bb27-4441-a10e-8de9afdd0471.png)
+
+
 So:
 Librarys : matplotlib,pywt, seaborn
 for model : svm, randomforestclassifier, logistic regression, Grid search CV, confusion matrix
