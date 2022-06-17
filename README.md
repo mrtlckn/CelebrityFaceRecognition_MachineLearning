@@ -2,6 +2,11 @@
 
 
 1-How do you detect face and eyes? with Haar Cascade
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/83788186/174264748-240b5fe2-3483-4dca-b263-63324bd9092c.png)
 
 
