@@ -11,10 +11,20 @@
 
 
 2-Crop the facial region of the image
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/83788186/174264845-23a1b108-4cb1-4631-baa1-3ebb26732444.png)
 
 
 3-Used wavelet transfrom as a feature for training our model
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/83788186/174264953-b371b5f2-f665-462a-b8cd-4642d66910d5.png)
 
 
@@ -23,6 +33,11 @@ SVM with rbf kernel tuned with heuristic finetuning
 
 5-Let's use GridSearch to try out different models with different paramets.
 Goal is to come up with best model with best fine tuned parameters
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/83788186/174265216-4d327a9c-20bb-4ac8-b8af-b235d0f078ca.png)
 
 
